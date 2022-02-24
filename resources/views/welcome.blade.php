@@ -198,7 +198,7 @@
         <footer class="footer">
             <div class="container">
                 <a class="footer__logo" href="#">
-                    <img src="{{ asset('assets/logo.svg') }}" />
+                    <img src="{{ asset('assets/logo-dark.svg') }}" />
                 </a>
                 
                 <div class="footer__social">
